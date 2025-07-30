@@ -32,12 +32,6 @@ We use a supervised learning approach with Random Forest to:
 
 - IBM Cloud Lite account
 - Python 3.8+
-- Jupyter Notebook
-- Libraries:
-  - `pandas`, `numpy`, `matplotlib`
-  - `scikit-learn`
-  - `ibm_watson_machine_learning`
-
 ---
 
 ## 🧪 Algorithm & Deployment
@@ -77,4 +71,3 @@ We use a supervised learning approach with Random Forest to:
 - [Kaggle Dataset](https://www.kaggle.com/datasets/ziya07/power-system-faults-dataset)
 - IBM Cloud Documentation: [cloud.ibm.com](https://cloud.ibm.com)
 - IEEE Research Papers on Power Fault Detection
-- 
